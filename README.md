@@ -1,11 +1,11 @@
 ## Hi, I'm Bogdan<br><br>Backend Developer | Infrastructure-Oriented Engineer
 
 <br>
-### 🖥️ Backend & Infrastructure
+## 🖥️ Backend & Infrastructure
 <br><br>Develops backend systems using FastAPI and Flask, containerized via Docker and reverse-proxied with Nginx and TLS.<br>Works with relational and in-memory databases including PostgreSQL, Redis, and SQLite.<br>Implements real-time features using Server-Sent Events (SSE) and handles authentication with JWT and access tokens.<br>Builds frontend admin panels using Angular and TailwindCSS, with a focus on internal tooling and dashboards.<br>Maintains CI/CD pipelines using GitHub Actions and Docker Compose, managing full deployment lifecycle on self-hosted setups.<br>Focused on clean API design, secure service communication, and scalable backend structure.<br><br>
-### 🎮 Game Development & Server Engineering
+## 🎮 Game Development & Server Engineering
 <br><br>Writes Minecraft mods and server-side plugins, using APIs like Fabric and Paper.<br>Sets up and maintains dedicated Minecraft servers, handling plugin orchestration, configuration, latency optimization, and backups.<br>Designs custom game mechanics, implements real-time integrations with external platforms (e.g. bots, dashboards, analytics), and ensures system stability at scale.<br><br>
-### ⚙️ Cross-Platform Integration & Projects
+## ⚙️ Cross-Platform Integration & Projects
 <br><br>Integrates web platforms with external services like Telegram, custom bots, and internal admin tools.<br>Builds modular systems that span web UIs, auth layers, and custom protocols for in-game communication and service logic.<br>Collaborates on cross-disciplinary projects involving financial simulations, game automation, and tooling ecosystems.
 
 
