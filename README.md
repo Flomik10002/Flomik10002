@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Bogdan
 
-<!--
-**Flomik10002/Flomik10002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+Backend Developer | Infrastructure-Oriented Engineer
 
-Here are some ideas to get you started:
+<br><br>🖥️ Backend & Infrastructure<br><br>Develops backend systems using FastAPI and Flask, containerized via Docker and reverse-proxied with Nginx and TLS.<br>Works with relational and in-memory databases including PostgreSQL, Redis, and SQLite.<br>Implements real-time features using Server-Sent Events (SSE) and handles authentication with JWT and access tokens.<br>Builds frontend admin panels using Angular and TailwindCSS, with a focus on internal tooling and dashboards.<br>Maintains CI/CD pipelines using GitHub Actions and Docker Compose, managing full deployment lifecycle on self-hosted setups.<br>Focused on clean API design, secure service communication, and scalable backend structure.<br><br>🎮 Game Development & Server Engineering<br><br>Writes Minecraft mods and server-side plugins, using APIs like Fabric and Paper.<br>Sets up and maintains dedicated Minecraft servers, handling plugin orchestration, configuration, latency optimization, and backups.<br>Designs custom game mechanics, implements real-time integrations with external platforms (e.g. bots, dashboards, analytics), and ensures system stability at scale.<br><br>⚙️ Cross-Platform Integration & Projects<br><br>Integrates web platforms with external services like Telegram, custom bots, and internal admin tools.<br>Builds modular systems that span web UIs, auth layers, and custom protocols for in-game communication and service logic.<br>Collaborates on cross-disciplinary projects involving financial simulations, game automation, and tooling ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Flomik10002&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Flomik10002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flomik10002&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
