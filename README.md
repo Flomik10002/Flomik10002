@@ -51,7 +51,7 @@
 </p>
 
 <!-- ===== GitHub Stats ===== -->
-<h3>📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Flomik10002&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flomik10002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
