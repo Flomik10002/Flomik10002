@@ -5,10 +5,6 @@
 ### Minecraft Mod Developer
 
 <p>
-  Java · NeoForge · Forge · Fabric
-</p>
-
-<p>
   <a href="https://www.curseforge.com/members/flomik/projects">
     <img src="https://img.shields.io/badge/CURSEFORGE-PROJECTS-F16436?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=1C1C1C" alt="CurseForge">
   </a>
@@ -39,10 +35,10 @@ Create × Farmer's Delight integration focused on automation, fluids and process
 
 <p>
   <a href="https://www.curseforge.com/minecraft/mc-mods/delightful-creators-forge">
-    <img src="https://img.shields.io/curseforge/dt/1275340?style=for-the-badge&logo=curseforge&logoColor=white&label=Forge%20%2F%20NeoForge&labelColor=1C1C1C&color=F16436" alt="Forge CurseForge Downloads">
+    <img src="https://img.shields.io/curseforge/dt/1275340?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge%20Forge&labelColor=1C1C1C&color=F16436" alt="CurseForge Forge Downloads">
   </a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/delightful-creators-fabric">
-    <img src="https://img.shields.io/curseforge/dt/873936?style=for-the-badge&logo=curseforge&logoColor=white&label=Fabric&labelColor=1C1C1C&color=F16436" alt="Fabric CurseForge Downloads">
+    <img src="https://img.shields.io/curseforge/dt/873936?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge%20Fabric&labelColor=1C1C1C&color=F16436" alt="CurseForge Fabric Downloads">
   </a>
   <a href="https://modrinth.com/project/jmJ87gsb">
     <img src="https://img.shields.io/modrinth/dt/jmJ87gsb?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&labelColor=1C1C1C&color=00AF5C" alt="Modrinth Downloads">
@@ -72,7 +68,7 @@ Create × Cultural Delights integration focused on automation and recipe compati
 
 <p>
   <a href="https://www.curseforge.com/minecraft/mc-mods/cultural-creators-fabric">
-    <img src="https://img.shields.io/curseforge/dt/953832?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
+    <img src="https://img.shields.io/curseforge/dt/953832?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
   </a>
   <a href="https://modrinth.com/mod/cultural-creators">
     <img src="https://img.shields.io/modrinth/dt/cultural-creators?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&labelColor=1C1C1C&color=00AF5C" alt="Modrinth Downloads">
@@ -87,14 +83,9 @@ Food contracts, village order boards, recipe-aware rewards and reputation progre
 
 <p>
   <a href="https://www.curseforge.com/minecraft/mc-mods/farmers-delight-contracts-feasts">
-    <img src="https://img.shields.io/curseforge/dt/1631026?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
-  </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/farmers-delight-contracts-feasts/files">
-    <img src="https://img.shields.io/curseforge/v/1631026?style=for-the-badge&logo=curseforge&logoColor=white&label=Latest&labelColor=1C1C1C&color=F16436" alt="Latest Version">
+    <img src="https://img.shields.io/curseforge/dt/1631026?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
   </a>
 </p>
-
-`Forge` · `NeoForge` · `Fabric`
 
 ---
 
@@ -104,14 +95,9 @@ Standalone in-game tutorial and visualization library for Minecraft mods.
 
 <p>
   <a href="https://www.curseforge.com/minecraft/mc-mods/ponderlib">
-    <img src="https://img.shields.io/curseforge/dt/1641997?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
-  </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/ponderlib/files">
-    <img src="https://img.shields.io/curseforge/v/1641997?style=for-the-badge&logo=curseforge&logoColor=white&label=Latest&labelColor=1C1C1C&color=F16436" alt="Latest Version">
+    <img src="https://img.shields.io/curseforge/dt/1641997?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
   </a>
 </p>
-
-`Forge` · `NeoForge`
 
 ---
 
@@ -121,13 +107,7 @@ Animated in-game Ponder scenes explaining Botania mechanics.
 
 <p>
   <a href="https://www.curseforge.com/minecraft/mc-mods/botania-ponder">
-    <img src="https://img.shields.io/curseforge/dt/1645931?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
-  </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/botania-ponder/files">
-    <img src="https://img.shields.io/curseforge/v/1645931?style=for-the-badge&logo=curseforge&logoColor=white&label=Latest&labelColor=1C1C1C&color=F16436" alt="Latest Version">
-  </a>
-  <a href="https://github.com/Flomik10002/Botania-Ponder">
-    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1C1C1C" alt="GitHub">
+    <img src="https://img.shields.io/curseforge/dt/1645931?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
   </a>
 </p>
 
@@ -143,13 +123,11 @@ Animated in-game Ponder scenes explaining Botania mechanics.
 
 Chess and Russian Draughts inside Minecraft, with multiplayer matches, villager AI opponents and village boards.
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/pastimes">
-  <img src="https://img.shields.io/curseforge/dt/1628123?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
-</a>
-
-<a href="https://www.curseforge.com/minecraft/mc-mods/pastimes/files">
-  <img src="https://img.shields.io/curseforge/v/1628123?style=for-the-badge&logo=curseforge&logoColor=white&label=Latest&labelColor=1C1C1C&color=F16436" alt="Latest Version">
-</a>
+<p>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/pastimes">
+    <img src="https://img.shields.io/curseforge/dt/1628123?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
+  </a>
+</p>
 
 </td>
 <td width="50%">
@@ -158,13 +136,14 @@ Chess and Russian Draughts inside Minecraft, with multiplayer matches, villager 
 
 Forces Minecraft player skins and Mojang-hosted capes to load over HTTPS.
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/skintls">
-  <img src="https://img.shields.io/curseforge/dt/1331585?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
-</a>
-
-<a href="https://modrinth.com/project/wAwqgsaO">
-  <img src="https://img.shields.io/modrinth/dt/wAwqgsaO?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&labelColor=1C1C1C&color=00AF5C" alt="Modrinth Downloads">
-</a>
+<p>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/skintls">
+    <img src="https://img.shields.io/curseforge/dt/1331585?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
+  </a>
+  <a href="https://modrinth.com/project/wAwqgsaO">
+    <img src="https://img.shields.io/modrinth/dt/wAwqgsaO?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&labelColor=1C1C1C&color=00AF5C" alt="Modrinth Downloads">
+  </a>
+</p>
 
 </td>
 </tr>
@@ -176,9 +155,11 @@ Forces Minecraft player skins and Mojang-hosted capes to load over HTTPS.
 
 Datapack integration between Create and Tinkers' Construct fluids and recipes.
 
-<a href="https://www.curseforge.com/minecraft/data-packs/create-mod-tinker-construct-integration">
-  <img src="https://img.shields.io/curseforge/dt/997556?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
-</a>
+<p>
+  <a href="https://www.curseforge.com/minecraft/data-packs/create-mod-tinker-construct-integration">
+    <img src="https://img.shields.io/curseforge/dt/997556?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
+  </a>
+</p>
 
 </td>
 <td width="50%">
@@ -187,15 +168,19 @@ Datapack integration between Create and Tinkers' Construct fluids and recipes.
 
 Bukkit plugin for restricting block placement by height.
 
-<a href="https://www.curseforge.com/minecraft/bukkit-plugins/block-height-restrictor">
-  <img src="https://img.shields.io/curseforge/dt/1155175?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
-</a>
+<p>
+  <a href="https://www.curseforge.com/minecraft/bukkit-plugins/block-height-restrictor">
+    <img src="https://img.shields.io/curseforge/dt/1155175?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=1C1C1C&color=F16436" alt="CurseForge Downloads">
+  </a>
+</p>
 
 </td>
 </tr>
 </table>
 
 ---
+
+<div align="center">
 
 ### Projects & Releases
 
