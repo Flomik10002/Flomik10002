@@ -79,7 +79,6 @@ Create × Cultural Delights integration focused on automation and recipe compati
   </a>
 </p>
 
-
 ---
 
 ### Farmer's Delight: Contracts & Feasts
